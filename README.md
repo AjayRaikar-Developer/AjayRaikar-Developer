@@ -54,7 +54,15 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 <br/>
-
+<h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
+<!-- 30 days of Postman -->
+<a href="https://api.badgr.io/public/assertions/UmYzhB-_Qe-FgdJWk-fusg?identity__email=ajayraikar123%40gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-UmYzhB-_Qe-FgdJWk-fusg.png" alt="30 days of Postman" width="200"/></a>
+<!-- VmWare IT Academy -->
+<a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="https://images.credly.com/size/680x680/images/51fd97fa-ac63-4803-91bc-17a713b82a59/vmware_Know_ITA_IV.png" alt="VmWare IT Academy" width="200"/></a>
+<!-- IBM - Python for Data Science -->
+<a href="https://www.credly.com/badges/94de0949-94c1-46ed-b245-e2ce4976519b/public_url"><img src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="IBM - Python for Data Science" width="200"/></a>
+<!-- HackerRank - SQL 5 Star -->
+<a href="https://www.hackerrank.com/ajay_raikar?hr_r=1"><img src="https://hrcdn.net/community-frontend/assets/generated-badges/sql_level_3_stars_5_linkedin-eb9818e321.png" alt="HackerRank - SQL 5 Star" width="200"/></a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
