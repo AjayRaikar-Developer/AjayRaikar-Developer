@@ -55,6 +55,8 @@
 
 <br/>
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
+<!-- Microsoft Certified - Azure Fundamentals -->
+<a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
 <!-- 30 days of Postman -->
 <a href="https://api.badgr.io/public/assertions/UmYzhB-_Qe-FgdJWk-fusg?identity__email=ajayraikar123%40gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-UmYzhB-_Qe-FgdJWk-fusg.png" alt="30 days of Postman" width="200"/></a>
 <!-- VmWare IT Academy -->
