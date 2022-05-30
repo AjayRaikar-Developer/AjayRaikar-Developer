@@ -56,11 +56,11 @@
 <br/>
 <h2> My Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width = 50px> </h2>
 <!-- Microsoft Certified - Azure Fundamentals -->
-<a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
+<a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
 <!-- 30 days of Postman -->
 <a href="https://api.badgr.io/public/assertions/UmYzhB-_Qe-FgdJWk-fusg?identity__email=ajayraikar123%40gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-UmYzhB-_Qe-FgdJWk-fusg.png" alt="30 days of Postman" width="200"/></a>
 <!-- VmWare IT Academy -->
-<a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="https://images.credly.com/size/680x680/images/51fd97fa-ac63-4803-91bc-17a713b82a59/vmware_Know_ITA_IV.png" alt="VmWare IT Academy" width="200"/></a>
+<a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="https://images.credly.com/size/340x340/images/45c33ed7-25f2-413d-9fad-89eb45c26eb7/image.png" alt="VmWare IT Academy" width="200"/></a>
 <!-- IBM - Python for Data Science -->
 <a href="https://www.credly.com/badges/94de0949-94c1-46ed-b245-e2ce4976519b/public_url"><img src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="IBM - Python for Data Science" width="200"/></a>
 <!-- HackerRank - SQL 5 Star -->
