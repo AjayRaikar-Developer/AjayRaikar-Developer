@@ -59,12 +59,23 @@
 <a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
 <!-- 30 days of Postman -->
 <a href="https://api.badgr.io/public/assertions/UmYzhB-_Qe-FgdJWk-fusg?identity__email=ajayraikar123%40gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-UmYzhB-_Qe-FgdJWk-fusg.png" alt="30 days of Postman" width="200"/></a>
-<!-- VmWare IT Academy -->
-<a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="https://images.credly.com/size/340x340/images/45c33ed7-25f2-413d-9fad-89eb45c26eb7/image.png" alt="VmWare IT Academy" width="200"/></a>
+<!-- Jira Fundamentals -->
+<a href="https://university.atlassian.com/student/award/9D8QXD3v9WT3pauzPYzJugsa"><img src="https://cdn.exceedlms.com/uploads/certifications/badges/28613/large/uni-credential-emblem-jirafundamentals.png?1624917008&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZXhjZWVkbG1zLmNvbS91cGxvYWRzL2NlcnRpZmljYXRpb25zL2JhZGdlcy8yODYxMy9sYXJnZS91bmktY3JlZGVudGlhbC1lbWJsZW0tamlyYWZ1bmRhbWVudGFscy5wbmc~MTYyNDkxNzAwOCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY4ODQ2NDc3N319fV19&Signature=eRnprhfGV0sX2Zt8NxBOkwmlD03tDzAwuuIg4uUq1RXv~MYD0I2uqHstCyGZHRnr8AecT2sTTJg9EsXX2vW1o9JZUGfk7YeHupDT~D3we-Y4zHERGiZaoolY3JK9-Y-9gXBsnIDMJY482o6E60SsPKLy59n-AvA-RlEnBinGOXazn0crgn8GSZI3Gd2oHJdqbIfBHu1O0ROrXckYyoJdm7tkkhJtS4yXoSwJ3d28jJjIuxiHsvy-OPHfD8FFW-0btLm5DHpUhHrYxQC~aKWeRBlbYepgKlhIrrJv9X-C727y-2N8kG2wj1wsmoDASvBef~3uv0epknVwQ1vccdAYYw__&Key-Pair-Id=APKAJINUZDMKZJI5I6DA" alt="Jira Fundamentals" width="200"/></a>
 <!-- IBM - Python for Data Science -->
 <a href="https://www.credly.com/badges/94de0949-94c1-46ed-b245-e2ce4976519b/public_url"><img src="https://images.credly.com/size/220x220/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="IBM - Python for Data Science" width="200"/></a>
+<!-- Splunk -->
+<a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635521259252/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="https://media.licdn.com/dms/image/C560BAQFlJedtHL59Dw/company-logo_200_200/0/1594232691618?e=1696464000&v=beta&t=46PQG8eb8OriIPQOFELvpQIDntgKFDWyCc_eOQAxHkk" alt="Jira Fundamentals" width="200"/></a>
+<!-- UI Path -->
+<a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635531734264/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="https://media.licdn.com/dms/image/C4D0BAQHJZGa_G2gwUg/company-logo_200_200/0/1519898420366?e=1696464000&v=beta&t=AWA0FjYToF9pr_avf31F1VmeEidPTNvZ2EqkfUnYdmo" alt="UI Path" width="200"/></a>
+<!-- NPTEL -->
+<a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635531733294/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="https://media.licdn.com/dms/image/C4D0BAQF0v6S05nSsPw/company-logo_200_200/0/1588776263948?e=1696464000&v=beta&t=Er-KI45lAqJzS_3UR89e2Fou5hghes3stort2EP3A8A" alt="NPTEL" width="200"/></a>
+<!-- VmWare IT Academy -->
+<a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="https://images.credly.com/size/340x340/images/45c33ed7-25f2-413d-9fad-89eb45c26eb7/image.png" alt="VmWare IT Academy" width="200"/></a>
+<!-- TestDom SQL  -->
+<a href="https://www.testdome.com/certificates/524da071c69f4c7388e1fbd0fdb9c8f6"><img src="https://media.licdn.com/dms/image/C4E0BAQGybnEADjiqUg/company-logo_200_200/0/1546945897308?e=1696464000&v=beta&t=VoZrkElYLA4vyIy0wauRlxCDfAJXJt2FJs9YApuR4qg" alt="TestDom SQL" width="200"/></a>
 <!-- HackerRank - SQL 5 Star -->
 <a href="https://www.hackerrank.com/ajay_raikar?hr_r=1"><img src="https://hrcdn.net/community-frontend/assets/generated-badges/sql_level_3_stars_5_linkedin-eb9818e321.png" alt="HackerRank - SQL 5 Star" width="200"/></a>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
