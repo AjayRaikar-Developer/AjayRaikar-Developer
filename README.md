@@ -56,7 +56,7 @@
 <br/>
 <h2> My Badges </h2>
 <!-- Microsoft Certified - Azure Fundamentals -->
-<a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
+<a href="images\AzureFundamentals.png"><img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
 <!-- 30 days of Postman -->
 <a href="https://api.badgr.io/public/assertions/UmYzhB-_Qe-FgdJWk-fusg?identity__email=ajayraikar123%40gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-UmYzhB-_Qe-FgdJWk-fusg.png" alt="30 days of Postman" width="200"/></a>
 <!-- Jira Fundamentals -->
