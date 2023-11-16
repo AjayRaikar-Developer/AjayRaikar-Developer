@@ -66,13 +66,13 @@
 <!-- Splunk -->
 <a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635521259252/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="images\Splunk.jpg" alt="Splunk" width="200"/></a>
 <!-- UI Path -->
-<a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635531734264/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="images\uipath-3.svg" alt="UI Path" width="200"/></a>
+<a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635531734264/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="images\uipath.jpeg" alt="UI Path" width="200"/></a>
 <!-- NPTEL -->
 <a href="https://www.linkedin.com/in/ajay-raikar/overlay/1635531733294/single-media-viewer/?profileId=ACoAACSFVwAB5nAjNJ6xC0usaKP6G31dz60_v6Q"><img src="images\NPTEL.jpeg" alt="NPTEL" width="200"/></a>
 <!-- VmWare IT Academy -->
 <a href="https://www.credly.com/badges/bcc9545f-364e-40e2-95af-82af6c4ae83f/public_url"><img src="images\vmware.png" alt="VmWare IT Academy" width="200"/></a>
 <!-- TestDom SQL  -->
-<a href="https://www.testdome.com/certificates/524da071c69f4c7388e1fbd0fdb9c8f6"><img src="images\Testdom.svg" alt="TestDom SQL" width="200"/></a>
+<a href="https://www.testdome.com/certificates/524da071c69f4c7388e1fbd0fdb9c8f6"><img src="images\testdome.jpeg" alt="TestDom SQL" width="200"/></a>
 <!-- HackerRank - SQL 5 Star -->
 <a href="https://www.hackerrank.com/ajay_raikar?hr_r=1"><img src="images\HackerRank.png" alt="HackerRank - SQL 5 Star" width="200"/></a>
 
