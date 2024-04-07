@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=AjayRaikar-Developer&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Azure, Mongo, etc.**
+- 🌱 I’m currently learning **Azure, Terraform, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/AjayRaikar-Developer?tab=repositories)
 
