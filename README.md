@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **.NET, Cloud Architecture (Azure & AWS), AI Agents, System Design, and Backend Development**
 
-- 👨‍💻 Check out my projects: **https://github.com/AjayRaikar?tab=repositories**
+- 👨‍💻 Check out my projects: [github](https://github.com/AjayRaikar-Developer?tab=repositories)
 
 - 📫 How to reach me **ajayraikar123@gmail.com**
 
