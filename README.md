@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ajay Raikar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Senior Software Engineer from <img src="https://flagcdn.com/w20/in.png" width="20" alt="India flag"> India</h3>
+<h3 align="center"> Cloud & AI Enthusiast | Building Scalable Backend Systems</h3>
+
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayRaikar-Developer&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **GenAi, LLMs, MCP, Agents, etc.**
+- 🚀 Senior Software Engineer with experience in **.NET, C#, Azure, AWS, React, and SQL Server**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/AjayRaikar-Developer?tab=repositories)
+- 🌱 Currently exploring **Generative AI, LLMs, AI Agents, MCP, LangChain, and Cloud-Native Architectures**
 
-- 💬 Ask me about **C#**, **SQL** & **React.Js**
+- ☁️ Passionate about **Backend Engineering, Cloud Architecture, DevOps, and AI-powered Applications**
+
+- 💬 Ask me about **.NET, Cloud Architecture (Azure & AWS), AI Agents, System Design, and Backend Development**
+
+- 👨‍💻 Check out my projects: **https://github.com/AjayRaikar?tab=repositories**
 
 - 📫 How to reach me **ajayraikar123@gmail.com**
 
@@ -24,12 +30,24 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/langflow-%230066CC.svg?style=for-the-badge&logo=langflow&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -39,18 +57,23 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 
 
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
@@ -99,9 +122,9 @@
 
 <p>
 <!-- <a href="https://www.ajayraikar.com"><img src="https://img.shields.io/badge/-ajayraikar.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/ajay-raikar-454246151/"><img src="https://img.shields.io/badge/-Ajay%20Raikar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajay-raikar-454246151/"><img src="https://img.shields.io/badge/LinkedIn-Ajay%20Raikar-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:ajayraikar123@gmail.com"><img src="https://img.shields.io/badge/-ajayraikar123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/AjayRaikar-Developer"><img src="https://img.shields.io/badge/-Ajay%20Raikar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/AjayRaikar-Developer"><img src="https://img.shields.io/badge/Twitter-Ajay%20Raikar-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayRaikar-Developer&" alt="AjayRaikar-Developer" /></p> -->
 
