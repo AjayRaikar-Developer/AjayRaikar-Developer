@@ -58,6 +58,13 @@
 
 <br/>
 <h2> My Badges </h2>
+
+<!-- AWS Certified AI Practitioner -->
+<a href="https://www.credly.com/badges/8d334da0-0eec-4dd6-8f57-966587bd7db6/linked_in_profile"><img src="images\AWS_AI_Badage.png" alt="AWS Certified AI Practitioner" width="200"/></a>
+<!-- Anthropic Architect -->
+<a href="https://www.coursera.org/account/accomplishments/verify/5N56P3V91M5D"><img src="images\Claude_Badage.png" alt="Anthropic Architect" width="200"/></a>
+<!-- AWS Gen AI Architect -->
+<a href="https://www.credly.com/badges/ced73a2a-1ad5-4bc2-b562-dbea293eb8cf/public_url"><img src="images\aws-gen-ai-architect.jpg" alt="AWS Gen AI Architect" width="200"/></a>
 <!-- Microsoft Certified - Azure Fundamentals -->
 <a href="https://www.credly.com/badges/19f44161-bff4-4c21-853a-11afb35eca7c/public_url"><img src="images\AzureFundamentals.png" alt="Microsoft Certified - Azure Fundamentals" width="200"/></a>
 <!-- 30 days of Postman -->
