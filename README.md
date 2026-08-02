@@ -58,7 +58,6 @@
 
 <br/>
 <h2> My Badges </h2>
-
 <!-- AWS Certified AI Practitioner -->
 <a href="https://www.credly.com/badges/8d334da0-0eec-4dd6-8f57-966587bd7db6/linked_in_profile"><img src="images\AWS_AI_Badage.png" alt="AWS Certified AI Practitioner" width="200"/></a>
 <!-- Anthropic Architect -->
@@ -85,7 +84,6 @@
 <a href="https://www.testdome.com/certificates/524da071c69f4c7388e1fbd0fdb9c8f6"><img src="images\testdome.jpeg" alt="TestDom SQL" width="200"/></a>
 <!-- HackerRank - SQL 5 Star -->
 <a href="https://www.hackerrank.com/ajay_raikar?hr_r=1"><img src="images\HackerRank.png" alt="HackerRank - SQL 5 Star" width="200"/></a>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
